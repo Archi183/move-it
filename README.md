@@ -7,7 +7,7 @@ It helped me learn **Bootstrap components** and responsive design.
 ---
 
 ## Live Demo
-*(Will add link when deployed)*
+*https://archi183.github.io/move-it/*
 
 ---
 
