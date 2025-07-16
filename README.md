@@ -11,5 +11,4 @@ It helped me learn **Bootstrap components** and responsive design.
 
 ---
 
-## 📌 Note
-This project is for learning purposes only.
+I made this project is for learning purpose only.
