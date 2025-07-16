@@ -6,7 +6,7 @@ It helped me learn **Bootstrap components** and responsive design.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 *(Will add link when deployed)*
 
 ---
